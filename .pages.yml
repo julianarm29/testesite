@@ -4,13 +4,9 @@ pages:
     editable_areas:
       - selector: ".hero"
         type: text
-        
+
   - name: Serviços
     file: servicos.html
-    editable_areas:
-      - selector: "section"
-        type: text
-
 
   - name: Galeria
     file: galeria.html
