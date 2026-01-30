@@ -5,3 +5,9 @@ pages:
       - selector: "h2"
         type: text
 
+  - name: Index
+    file: index.html
+    editable_areas:
+      - selector: "h2"
+        type: text
+
