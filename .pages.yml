@@ -1,9 +1,7 @@
 pages:
   - name: Serviços
     file: servicos.html
-    editable_areas:
-      - selector: "h2"
-        type: text
+ 
 
   - name: Index
     file: index.html
