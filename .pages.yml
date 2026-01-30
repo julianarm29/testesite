@@ -1,3 +1,8 @@
 pages:
   - name: Serviços
     file: servicos.html
+    editable_areas:
+      - selector: "h2[data-cms]"
+        type: text
+      - selector: "li[data-cms]"
+        type: text
