@@ -4,5 +4,4 @@ pages:
     editable_areas:
       - selector: "h2"
         type: text
-      - selector: "ul"
-        type: text
+
