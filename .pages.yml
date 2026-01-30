@@ -1,10 +1,4 @@
 pages:
-  - name: Home
-    file: index.html
-    editable_areas:
-      - selector: ".hero"
-        type: text
-
   - name: Serviços
     file: servicos.html
     editable_areas:
@@ -12,9 +6,3 @@ pages:
         type: text
       - selector: "section div"
         type: text
-
-  - name: Galeria
-    file: galeria.html
-    editable_areas:
-      - selector: ".galeria img"
-        type: image
